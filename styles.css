@@ -1,0 +1,42 @@
+/* add your CSS here */
+.width{
+width:300px;
+
+
+padding: 15px;
+}
+.border{
+border:1px solid grey;
+margin:13px;
+width:300px;
+
+}
+.facts{
+padding:15px;
+font-style:italic;
+
+}
+.body{
+padding:15px;
+border:1px solid grey;
+background-color:pink;
+width:365px;
+}
+.name{
+text-decoration:underline;
+padding:15px;}
+.image{
+padding:15px;
+height:200px;
+width:300px;
+
+}
+.description{
+padding:15px;
+}
+.listitem{
+padding:15px;
+list-style:none;
+}
+.label{
+font-weight:bold;}
